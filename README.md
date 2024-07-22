@@ -5,3 +5,5 @@ A continuación, se desarrolla todo el software necesario para crear el algoritm
 El documento pdf incluye un manual de cómo utilizar la App Web.
 
 En este repositorio se puede acceder tanto al código del algoritmo y la aplicación, desarrollado en lenguaje R, como al documento pdf y la base de datos de diabetes utilizada en el ejemplo.
+
+## Lenguaje utilizado: R.
